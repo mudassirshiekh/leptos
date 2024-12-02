@@ -13,6 +13,7 @@
 You can find a list of useful libraries and example projects at [`awesome-leptos`](https://github.com/leptos-rs/awesome-leptos).
 
 # Leptos
+# By Mudassir Alam
 
 ```rust
 use leptos::*;
